@@ -269,6 +269,10 @@ footer {
 	    justify-content: space-around;
 	}
 
+	nav a {
+		margin-right: 0;
+	}
+
 	#bio, #connect, header, h1 {
 	width: 100%;
 	max-width: 640px;
